@@ -1,0 +1,1 @@
+{"event_source": "Threat-Lab", "event_type": "POSSIBLE_PASSWORD_GUESSING", "username": "student", "source_ip": "192.0.2.25", "failed_attempts": 5, "mitre_technique": "T1110 - Brute Force (candidate mapping; validate evidence)", "assessment": "Simulated training data; investigate before concluding"}

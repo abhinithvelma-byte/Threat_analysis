@@ -1,0 +1,7 @@
+feed_match,feed_confidence,indicator,provided_type,detected_type,source,format_status,duplicate,reputation,confidence,assessment
+No match,Not available,192.0.2.10,ip,ip,training_sample,Valid format,False,Not checked,Unassessed,Training data only; not confirmed malicious
+TRAINING_ONLY,low,198.51.100.15,ip,ip,training_sample,Valid format,False,Not checked,Unassessed,Training data only; not confirmed malicious
+No match,Not available,example.com,domain,domain,training_sample,Valid domain format,False,Not checked,Unassessed,Training data only; not confirmed malicious
+No match,Not available,https://example.org/login,url,url,training_sample,Valid URL format,False,Not checked,Unassessed,Training data only; not confirmed malicious
+No match,Not available,d41d8cd98f00b204e9800998ecf8427e,hash,hash,training_sample,Valid MD5 format,False,Not checked,Unassessed,Training data only; not confirmed malicious
+No match,Not available,192.0.2.10,ip,ip,training_sample,Valid format,True,Not checked,Unassessed,Training data only; not confirmed malicious

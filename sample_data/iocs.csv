@@ -1,0 +1,7 @@
+indicator,type,source
+192.0.2.10,ip,training_sample
+198.51.100.15,ip,training_sample
+example.com,domain,training_sample
+https://example.org/login,url,training_sample
+d41d8cd98f00b204e9800998ecf8427e,hash,training_sample
+192.0.2.10,ip,training_sample

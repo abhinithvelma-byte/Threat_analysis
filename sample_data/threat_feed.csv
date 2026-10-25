@@ -1,0 +1,3 @@
+indicator,type,threat_label,confidence,source
+198.51.100.15,ip,TRAINING_ONLY,low,synthetic_lab_feed
+suspicious-example.invalid,domain,TRAINING_ONLY,low,synthetic_lab_feed

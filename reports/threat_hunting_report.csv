@@ -1,0 +1,2 @@
+username,source_ip,failed_attempts,detection,assessment,mitre_technique
+student,192.0.2.25,5,POSSIBLE_PASSWORD_GUESSING,Simulated training data; investigate before concluding,T1110 - Brute Force (candidate mapping; validate evidence)
